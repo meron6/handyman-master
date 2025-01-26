@@ -41,7 +41,7 @@ Clone the repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/handyman-master.git
+git clone https://github.com/meron6/handyman-master.git
 Navigate to the project directory:
 bash
 Copy
