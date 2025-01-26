@@ -11,7 +11,7 @@ Welcome to the Handyman Master Website! This project is designed to showcase the
 ![Screenshot 2025-01-27 014628](https://github.com/user-attachments/assets/078b5299-a07d-40c4-a647-69914aa7c99d)
 ![Screenshot 2025-01-27 014641](https://github.com/user-attachments/assets/4370c85f-9fbd-4c14-b018-dc16c4bb8829)
 
-
+accesing the website: http://localhost/handyman-master
 
 Table of Contents
 Project Description
